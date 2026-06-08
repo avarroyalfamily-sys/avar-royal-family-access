@@ -1,0 +1,22 @@
+{
+  "name": "AVAR ROYAL FAMILY ACCESS",
+  "short_name": "AVAR ROYAL",
+  "description": "Official NGO App for free education, digital literacy and humanitarian services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B6623",
+  "theme_color": "#0B6623",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "id": "com.avarroyalfamily.access"
+}

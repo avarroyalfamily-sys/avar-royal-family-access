@@ -27,8 +27,7 @@ Wannan *repository* shi ne gida ga **AVAR ROYAL Next Level** — Progressive Web
 1. Koyar da *Digital Skills* kyauta  
 2. Bayar da *Royal News* na gaskiya  
 3. Haɗa al’umma don ayyukan agaji  
-
-**Install:** Buɗe https://avarroyalfamily.org a Chrome → Danna `Install App`  
+ Install: Buɗe https://ais-pre-o5blrgdlg5rmrqjh4cg5s3-138424904777.europe-west1.run.app a Chrome → Danna Install App Danna `Install App`  
 
 ### 🤝 Yadda Za Ka Taimaka — Contribute
 1. **Star ⭐** wannan *repo* don nuna goyon baya  
